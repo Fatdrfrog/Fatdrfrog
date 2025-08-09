@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Fatdrfrog
-I have passion in coding and trying to make it my craft. Always learning new tools and languages but getting Real in React/TS.
+👋 Hi, I’m creator of icecore.ai.
+
+My hobbies:
+- Product obssession
+- Vibe coding on production
+- Real life
 
 - 📫 How to reach me: samat.kalshabekov@gmail.com
