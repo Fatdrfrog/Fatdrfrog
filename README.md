@@ -1,4 +1,4 @@
-👋 Hi, I’m creator of icecore.ai.
+👋 Heey, I’m creator of icecore.ai & slopCollector
 
 My hobbies:
 - Product obssession
