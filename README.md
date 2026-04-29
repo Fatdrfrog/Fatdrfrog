@@ -1,94 +1,87 @@
-﻿<p align="center">
-  <img src="assets/readme/hero-bonfire.svg" alt="Dark camp bonfire banner for founder-led product building" width="100%" />
+<p align="center">
+  <img src="assets/readme/hero-bonfire.svg" alt="Samat Kalshabekov profile banner for AI support operations and founder-led product building" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Samat Kalshabekov</strong> - Co-founder & CTO at <a href="https://www.airi.chat">airi.chat</a>
+  <strong>Samat Kalshabekov</strong><br />
+  Co-founder & CTO at <a href="https://www.airi.chat">airi.chat</a>. I build AI tools for support teams that need less noise and more signal.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=F5E6C8&center=true&vCenter=true&width=980&lines=I+build+calm+systems+for+chaotic+support+environments.;Founder-led+shipping%2C+real+users%2C+real+feedback.;The+bonfire+is+warm.+The+deploy+is+green." alt="Typing intro about founder-led shipping and calm systems" />
+  <a href="https://www.airi.chat">
+    <img src="https://img.shields.io/badge/Open-airi.chat-ff7a18?style=for-the-badge&amp;logo=vercel&amp;logoColor=111111" alt="Open airi.chat" />
+  </a>
+  <a href="https://github.com/Fatdrfrog">
+    <img src="https://img.shields.io/badge/GitHub-Fatdrfrog-1f2937?style=for-the-badge&amp;logo=github&amp;logoColor=f5e6c8" alt="GitHub profile for Fatdrfrog" />
+  </a>
+  <a href="https://www.linkedin.com/in/kalshabekov/">
+    <img src="https://img.shields.io/badge/LinkedIn-kalshabekov-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile for Samat Kalshabekov" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fatdrfrog&style=flat-square&color=ff7a18" alt="Profile views counter" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=F5E6C8&amp;center=true&amp;vCenter=true&amp;width=880&amp;lines=Building+AI+support+analytics+at+airi.chat.;AI+helps.+I+still+read+the+diff.;Less+dashboard+chaos%2C+more+customer+truth." alt="Typing intro about airi.chat and practical AI work" />
 </p>
 
 <p align="center">
-  <img src="assets/readme/divider-embers.svg" alt="Ember divider" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Fatdrfrog&amp;style=flat-square&amp;color=ff7a18" alt="Profile views counter" />
 </p>
-
-## Founder Intro
-I am Samat, co-founder and CTO at `airi.chat`.
-I build products for support teams that are tired of spreadsheet archaeology and six dashboards open at once.
-My favorite stack is simple: talk to users, ship fast, keep the system calm, repeat.
-
-## Campfire Story
-**Where I started**  
-I got obsessed with UX and DX because bad tools quietly burn team energy every day.
-
-**What I am building now**  
-At `airi.chat`, we help teams run support as a measurable operating system, not a chaos simulator.
-
-**Why this matters**  
-Support conversations are not noise. They are product truth, churn signals, and growth clues wearing hoodies.
-
-## Now Building
-`airi.chat` is my main quest right now: AI support analytics, real-time coaching, and multi-channel operations in one place.
-
-[![Open airi.chat](https://img.shields.io/badge/Open-airi.chat-ff7a18?style=for-the-badge&logo=vercel&logoColor=111111)](https://www.airi.chat)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Fatdrfrog-1f2937?style=for-the-badge&logo=github&logoColor=f5e6c8)](https://github.com/Fatdrfrog)
 
 <p align="center">
   <img src="assets/readme/divider-embers.svg" alt="Ember divider" width="100%" />
 </p>
 
-## Project Arsenal
+## About
+
+I work on support operations, AI product systems, and founder-led growth. Most of my time goes into `airi.chat`, where we help teams understand what is happening across WhatsApp, Telegram, Email, and web chat.
+
+I like simple product loops: talk to users, ship, measure, fix the awkward part, repeat. If a dashboard needs a tour guide, it probably needs a redesign.
+
+## Projects
+
 ### airi.chat
+
 <a href="https://www.airi.chat">
   <img src="assets/readme/project-card-airi.svg" alt="airi.chat project card with summary and stack tags" width="100%" />
 </a>
 
-- Core repo currently private: `nest.ai.front`
-- GitHub hub: https://github.com/Fatdrfrog
+- AI support analytics, real-time coaching, and multi-channel operations.
+- Built for teams that want support quality, customer pain, and agent performance in one place.
 - Live: https://www.airi.chat
+- Core app repo: private for now.
 
 ### SlopCollector
+
 <a href="https://github.com/Fatdrfrog/slopcollector">
   <img src="assets/readme/project-card-slop.svg" alt="SlopCollector project card with summary and stack tags" width="100%" />
 </a>
 
+- Supabase schema diagnostics with indexing and performance hints.
+- Useful when the database still works, but everyone is afraid to ask why.
 - Repo: https://github.com/Fatdrfrog/slopcollector
 - Live: https://slopcollector.vercel.app
 
 ### Voice Agent
+
 <a href="https://github.com/Fatdrfrog/voice-agent">
   <img src="assets/readme/project-card-voice.svg" alt="Voice Agent project card with summary and stack tags" width="100%" />
 </a>
 
+- Voice-first assistant for coding and operator workflows.
+- Experimental, practical, and best used after coffee.
 - Repo: https://github.com/Fatdrfrog/voice-agent
-- Live: shipping mode enabled
 
-## Operator Log
-**Currently shipping**
-- Founder-led GTM loops around `airi.chat`.
-- Better support analytics workflows across WhatsApp, Telegram, Email, and web chat.
+## Current Focus
 
-**Currently learning**
-- How to keep product velocity high without burning the team.
-- Better onboarding UX for non-technical operators.
+- Better onboarding for non-technical support operators.
+- Clear AI features that explain their work.
+- Faster feedback loops between support, product, and leadership.
+- Shipping with AI without shipping AI slop.
 
-**Currently breaking and fixing**
-- Every bug that appears exactly three minutes before a demo.
-- My own assumptions, because production is honest.
+## Reach Out
 
-## Collab CTA
-If you are into founder-led marketing, early customer loops, and building tools people actually use, let us talk.
+Talk to me if you run a support-heavy team, build founder-led products, or care about AI agents, Supabase, Next.js, and product feedback loops.
 
-[![Talk on LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20talk-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalshabekov/)
-[![Visit airi.chat](https://img.shields.io/badge/Visit-airi.chat-ff7a18?style=for-the-badge&logo=safari&logoColor=111111)](https://www.airi.chat)
-
-## Contact Strip
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kalshabekov-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalshabekov/)
 [![Telegram](https://img.shields.io/badge/Telegram-@fatdrfrog-229ed9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fatdrfrog)
 [![Email](https://img.shields.io/badge/Email-samat.kalshabekov@gmail.com-c2410c?style=flat-square&logo=gmail&logoColor=white)](mailto:samat.kalshabekov@gmail.com)
@@ -97,14 +90,19 @@ If you are into founder-led marketing, early customer loops, and building tools 
   <img src="assets/readme/divider-embers.svg" alt="Ember divider" width="100%" />
 </p>
 
-## Stats
+## Automated Signals
+
+These cards are generated by external README services. If they are slow or cached, use the links above as the source of truth.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatdrfrog&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff7a18&text_color=f5e6c8&icon_color=ff7a18&ring_color=ff7a18" alt="GitHub stats for Fatdrfrog" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Fatdrfrog&hide_border=true&background=00000000&ring=ff7a18&fire=ff7a18&currStreakLabel=f5e6c8&sideNums=f5e6c8&sideLabels=f5e6c8&dates=6b7280" alt="GitHub streak stats for Fatdrfrog" height="170" />
+  <a href="https://github.com/Fatdrfrog">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fatdrfrog&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ff7a18&amp;text_color=f5e6c8&amp;icon_color=ff7a18&amp;ring_color=ff7a18&amp;include_all_commits=true&amp;rank_icon=github&amp;locale=en&amp;cache_seconds=21600" alt="Automated GitHub stats card for Fatdrfrog" height="170" />
+  </a>
+  <a href="https://github.com/Fatdrfrog?tab=contributions">
+    <img src="https://streak-stats.demolab.com?user=Fatdrfrog&amp;hide_border=true&amp;background=00000000&amp;ring=ff7a18&amp;fire=ff7a18&amp;currStreakLabel=f5e6c8&amp;sideNums=f5e6c8&amp;sideLabels=f5e6c8&amp;dates=6b7280&amp;date_format=M%20j%5B%2C%20Y%5D" alt="Automated GitHub streak card for Fatdrfrog" height="170" />
+  </a>
 </p>
 
-If dynamic cards are down, the camp still runs: links above are the source of truth.
-
 <p align="center">
-  <em>The fire is warm. The roadmap is long. Pull up a log.</em>
+  <sub>This README was generated by GPT-5.5.</sub>
 </p>
